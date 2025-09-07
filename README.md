@@ -25,7 +25,7 @@
 
 🔹 [SecurePass](https://github.com/Sourabh24EGJCY/password-generator000) - Random Password Generator (CLI Project)
 
-🔹 [RepoInsightR](https://github.com/Sourabh24EGJCY/data-insights-dashboard000) - R-Powered Data Insights Dashboard
+🔹 [RepoInsightR](https://github.com/Sourabh24EGJCY/data-insights-dashboard000) - R Powered Data Insights Dashboard
 
 
 # 📊 GitHub Stats:
