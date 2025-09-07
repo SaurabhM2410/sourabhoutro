@@ -17,9 +17,12 @@
 
 
 ## 🛠️ Projects  
-🔹 [AI Chatbot](https://github.com/yourusername/aichatbot) – Built a simple chatbot in Python  
-🔹 [Django WebApp](https://github.com/yourusername/djangoapp) – Web application for …  
-🔹 [Generative AI Tools](https://github.com/yourusername/genai-tools) – Prompt-based automation  
+🔹 [EcoPulse](https://github.com/Sourabh24EGJCY/ecopulse000) – AI Powered Carbon Footprint Tracker
+🔹 [ResuMate](https://github.com/Sourabh24EGJCY/resume-builder000) - AI Powered Resume Builder
+🔹 [RepoChatFlow](https://github.com/Sourabh24EGJCY/aichatbot000) - AI Chatbot (Mini Project)
+🔹 [SecurePass](https://github.com/Sourabh24EGJCY/password-generator000) - Random Password Generator (CLI Project)
+🔹 [RepoInsightR](https://github.com/Sourabh24EGJCY/data-insights-dashboard000) - R-Powered Data Insights Dashboard
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sourabh&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
