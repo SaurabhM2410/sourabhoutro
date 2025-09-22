@@ -27,6 +27,8 @@
 
 🔹 [RepoInsightR](https://github.com/Sourabh24EGJCY/data-insights-dashboard000) - R Powered Data Insights Dashboard
 
+🔹
+[MindMate](https://github.com/Sourabh24EGJCY/data-insights-dashboard000) - AI-Powered Mental Wellbeing Companion
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sourabh&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
